@@ -1,0 +1,54 @@
+body{
+	background-color: #e4e6eb;
+}
+body h2{
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 2.5em;
+	text-shadow: 2px 2px 4px white;
+	margin-bottom: 25px;
+	text-transform: uppercase;
+}
+#header-nav{
+	background-color: #193c75;
+	border-radius: 0;
+	border:0;
+	height: 60px;
+}
+#company-name{
+	float: left;
+	color: white;
+}
+.navbar-brand {
+	padding: 0px;
+}
+.navbar-brand h1{
+	font-family: 'Lobster', cursive;
+	font-size: 2.5em;
+	color: white;
+	text-shadow: 1px 1px 4px blue;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.navbar-brand a:hover{
+	text-decoration: none;
+}
+.box{
+	background-color: #f0f1f2;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	border-radius: 5px;
+	box-shadow: 3px 5px 4px grey;
+}
+.title{
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5em;
+	text-shadow: 1px 1px 4px white;
+}
+.text{
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.1em;
+	padding: 10px;
+}
