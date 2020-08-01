@@ -50,6 +50,10 @@ body h2{
 	text-shadow: 1px 1px 4px white;
 	font-weight: bold;
 }
+.title:hover{
+	font-size: 1.7em;
+	text-shadow: 2px 2px 4px white;
+}
 .text{
 	font-family: 'Oswald', sans-serif;
 	font-size: 1.1em;
